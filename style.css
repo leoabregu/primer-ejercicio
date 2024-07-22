@@ -1,0 +1,75 @@
+:root {
+    --White: hsl(0, 0%, 100%);
+
+    --Stone-100: hsl(30, 54%, 90%);
+    --Stone-150: hsl(30, 18%, 87%);
+    --Stone-600: hsl(30, 10%, 34%);
+    --Stone-900: hsl(24, 5%, 18%);
+
+    --Brown-800: hsl(14, 45%, 36%);
+
+    --Rose-800: hsl(332, 51%, 32%);
+    --Rose-50: hsl(330, 100%, 98%);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: YoungSerif;
+}
+
+header img {
+    width: 100%;
+}
+
+.container-1 {
+    margin: 1.5rem;
+}
+
+.container-1 h1 {
+    font-weight: 600;
+    padding: 1rem 0;
+}
+
+.container-1 p {
+    padding-bottom: 1rem;
+}
+
+.preparation-time {
+    padding: 0 4rem 2rem 4rem;  
+}
+
+.preparation-time h3 {
+    padding-bottom: 1rem;
+}
+
+.preparation-time ul {
+    margin-left: 1.3rem;
+}
+
+.preparation-time li {
+    padding: .5rem;
+}
+
+.container-2 {
+    margin: 0 2rem 1rem 3rem;
+}
+
+.container-2 h2 {
+    color: var(--Brown-800);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
